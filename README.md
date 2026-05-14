@@ -15,6 +15,7 @@ Parte A
 13. C
 14. B
 15. B
+
 Parte B
 Pregunta 1
 Un algoritmo es una secuencia ordenada de pasos para realizar una tarea.
